@@ -19,16 +19,13 @@ Item List Manager is a simple React app to create and manage a list of items. Us
 ## Setup
 
 1. Clone the repository:
-   bash
    git clone https://github.com/your-repo/item-list-manager.git
    cd item-list-manager
    
 2. Install dependencies:
-   bash
    npm install
    
 3. Start the app:
-   bash
    npm start
    
 4. Open http://localhost:3000 in your browser.
